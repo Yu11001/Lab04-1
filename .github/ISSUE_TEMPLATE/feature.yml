@@ -1,6 +1,6 @@
 ---
 name: Feature
-description: File a bug report
+description: File a feature report
 title: "[Feature]: "
 labels: ["Feature", "triage"]
 projects: ["octo-org/1", "octo-org/44"]
