@@ -17,7 +17,7 @@ body:
   - type: markdown
     attributes:
       value: |
-        Thanks for taking the time to fill out this bug report!
+        Thanks for taking the time to fill out this feature report!
  
   - type: dropdown
     id: request_type  # Adjusted the id value
